@@ -45,3 +45,5 @@ HC-05 RX → Arduino TX ( chân 1)
 Driver L298N → Động cơ trái/phải
 
 Nguồn pin → Arduino + L298N
+
+Hướng dẫn sử dụng APP: tải app đó lên MIT APP INVENTER trên web rồi tải app về điện thoại dưới dạng APK và kết nối bluetooth, sử dụng
